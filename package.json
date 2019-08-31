@@ -1,0 +1,22 @@
+{
+  "name": "person-widget",
+  "version": "0.1.0",
+  "description": "Encapsulates searching a person by entering BEMSID, last name, or <last, firstname>.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fespiritu/createnpm.git"
+  },
+  "keywords": [
+    "widget"
+  ],
+  "author": "createnpm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fespiritu/createnpm/issues"
+  },
+  "homepage": "https://github.com/fespiritu/createnpm#readme"
+}
