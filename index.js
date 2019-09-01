@@ -1,1 +1,6 @@
-console.log('Hello World!');
+
+import OandaInstrumentDD from './wrapper/oandaInstrumentDD';
+
+module.exports = {
+    OandaInstrumentDD
+};
